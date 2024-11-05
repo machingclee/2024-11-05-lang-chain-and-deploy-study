@@ -1,0 +1,477 @@
+{
+  "public_identifier": "chingclee",
+  "profile_pic_url": "https://media.licdn.com/dms/image/v2/D5603AQG73gq0Cl9_sg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701781028143?e=1736380800&v=beta&t=tf8vWfvl9PHeLNYE9JLwnKwqhL6KJHR0A9a2dxdr-XA",
+  "background_cover_image_url": null,
+  "first_name": "Ching-Cheong",
+  "last_name": "Lee",
+  "full_name": "Ching-Cheong Lee",
+  "follower_count": 205,
+  "occupation": "Software Engineer at Wonderbricks",
+  "headline": "Software Engineer",
+  "summary": "You may download my CV by:\\nhttps://machingclee.github.io/static/media/CV_Portfolio.34c46792.pdf\\n\\nThis is essentially the condensed version of my personal homepage:\\nhttps://machingclee.github.io",
+  "country": "HK",
+  "country_full_name": "Hong Kong SAR",
+  "city": "Kowloon",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": { "day": 1, "month": 5, "year": 2023 },
+      "ends_at": null,
+      "company": "Wonderbricks",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wonderbricks",
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": "Duty: https://machingclee.github.io",
+      "location": "Hong Kong SAR",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/wonderbricks/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5d668fca7da5fdbdaae25871c1607d1d6767e193586007c2f5ab89dcafd632f"
+    },
+    {
+      "starts_at": { "day": 1, "month": 8, "year": 2022 },
+      "ends_at": { "day": 30, "month": 4, "year": 2023 },
+      "company": "eyeCatching",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/69316495/",
+      "company_facebook_profile_url": null,
+      "title": "AI Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHkCBnf22okXg/company-logo_400_400/company-logo_400_400/0/1630638672899?e=1738800000&v=beta&t=73JcEslg4u_MczZOIGKMTigk6cCTF2iHAQooCXJlae8"
+    },
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2021 },
+      "ends_at": { "day": 31, "month": 7, "year": 2022 },
+      "company": "RaSpect Intelligence Inspection Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/raspect-inspection",
+      "company_facebook_profile_url": null,
+      "title": "Senior Software Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/raspect-inspection/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d190b90b6cea34f9ff7a6c67149da30a7ebb17d77ad104c5c79c099c64895d1"
+    },
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2020 },
+      "ends_at": { "day": 31, "month": 8, "year": 2021 },
+      "company": "EAB Systems (Hong Kong) Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/eab-systems-limited",
+      "company_facebook_profile_url": null,
+      "title": "Software Engineer",
+      "description": null,
+      "location": "Hong Kong SAR",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/eab-systems-limited/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5e9aabeb29f00adacd3bf4a7dadc8bcecf0fb0a99b1356662cab174dcdcc0f9c"
+    },
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2019 },
+      "ends_at": { "day": 31, "month": 8, "year": 2020 },
+      "company": "eLearning Pro",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/elearningpro",
+      "company_facebook_profile_url": null,
+      "title": "Frontend Developer",
+      "description": null,
+      "location": "Hong Kong",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/elearningpro/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=12cb4002c32b4061c61950dfaaa9086c7167727d5eac78764888933720d97cef"
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2019 },
+      "ends_at": { "day": 31, "month": 3, "year": 2019 },
+      "company": "Self Employed",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/indpendent-contractor",
+      "company_facebook_profile_url": null,
+      "title": "Freelance Artist",
+      "description": null,
+      "location": "Hong Kong",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/indpendent-contractor/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d32705087e31ca56ff29d106486824e26679875e69db5b44e5b5ee1bc359b10d"
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2018 },
+      "ends_at": { "day": 31, "month": 12, "year": 2018 },
+      "company": "Indie GameDev",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/igdclub",
+      "company_facebook_profile_url": null,
+      "title": "Game Artist",
+      "description": "Draw character design, environmental art and UI assets. Create 3D model for my own character in the game \\u9f8d\\u4e4b\\u6c23\\u606f: \\nhttps://www.tap.io/app/37681?utm_source=taptap_cn",
+      "location": "Shenzhen, Guangdong, China",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/igdclub/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c804333777ed6e3adde10f51d7d1d748a22f9366b06325098c05ba7872431767"
+    },
+    {
+      "starts_at": { "day": 1, "month": 3, "year": 2015 },
+      "ends_at": { "day": 30, "month": 9, "year": 2015 },
+      "company": "Hong Kong Baptist University",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hong-kong-baptist-university",
+      "company_facebook_profile_url": null,
+      "title": "Research Assistant",
+      "description": "Conduct research in HJB equations, more specifically, finding possible candidate of sufficient conditions and ruling out redundant assumptions of results in financial games.",
+      "location": "Hong Kong",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/hong-kong-baptist-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef5f8812b3f83f85420251ab28017531935c8f17f4f10afe14f277f3ee084989"
+    },
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2014 },
+      "ends_at": { "day": 28, "month": 2, "year": 2015 },
+      "company": "The Hong Kong University of Science and Technology",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hkust",
+      "company_facebook_profile_url": null,
+      "title": "Research Assistant",
+      "description": "Conduct research in the nature of the viscosity solution of some Partial Differential Equations (HJB ones) solved by certain numerical scheme.",
+      "location": "Kowloon, Hong Kong",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/hkust/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d138f47a7bd474a3595709a070289f54f1e5b2b414acf1aa24bcfb3a02b9520"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2012 },
+      "ends_at": { "day": 31, "month": 12, "year": 2014 },
+      "field_of_study": "Mathematics",
+      "degree_name": "Master of Philosophy - MPhil",
+      "school": "The Hong Kong University of Science and Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/hkust",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/hkust/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d138f47a7bd474a3595709a070289f54f1e5b2b414acf1aa24bcfb3a02b9520",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 1, "year": 2009 },
+      "ends_at": { "day": 31, "month": 12, "year": 2012 },
+      "field_of_study": "Mathematics, First Class Honours",
+      "degree_name": "Bachelor's degree",
+      "school": "The Hong Kong University of Science and Technology",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/hkust",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/hkust/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241103%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241103T114204Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d138f47a7bd474a3595709a070289f54f1e5b2b414acf1aa24bcfb3a02b9520",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": ["Chinese", "English", "Japanese"],
+  "languages_and_proficiencies": [
+    { "name": "Chinese", "proficiency": "FULL_PROFESSIONAL" },
+    { "name": "English", "proficiency": "LIMITED_WORKING" },
+    { "name": "Japanese", "proficiency": "ELEMENTARY" }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": { "day": 1, "month": 9, "year": 2023 },
+      "ends_at": { "day": 30, "month": 9, "year": 2023 },
+      "title": "Mobile Application",
+      "description": "It demontrates my ability to create custom animated components to fulfill complicated requirements and the experience of managing an iOS app in DEV, UAT and PROD environment.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 2, "year": 2024 },
+      "ends_at": { "day": 29, "month": 2, "year": 2024 },
+      "title": "Event Time Confirmation System",
+      "description": "This project attempts to confirm times available to all members of an event on a weekly basis.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 3, "year": 2023 },
+      "ends_at": { "day": 31, "month": 3, "year": 2023 },
+      "title": "Translate Pytorch Model and Weight into Libtorch Model for C++ Project",
+      "description": "This project is a complete C++ translation of mediapipe's blazeface from python. The goal is to integrate existing pytorch model into desktop application using C++and imgui.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 10, "year": 2022 },
+      "ends_at": { "day": 31, "month": 10, "year": 2022 },
+      "title": "Deploy Custom Pytorch Model to Web Frontend",
+      "description": "This project attempts to deploy a custom trained model (trained in pytorch) into the browser.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 5, "year": 2022 },
+      "ends_at": { "day": 31, "month": 5, "year": 2022 },
+      "title": "Defect Classifcation by Object Detections",
+      "description": "We implement a defect classifier by means of object detection.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 4, "year": 2022 },
+      "ends_at": { "day": 30, "month": 4, "year": 2022 },
+      "title": "Text Detection and Text Removal for Signboards",
+      "description": "Implemented a text detection as well as an inpainting module to erase the text on signboards.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 3, "year": 2022 },
+      "ends_at": { "day": 31, "month": 3, "year": 2022 },
+      "title": "DefectGAN - a Synthetic Data Generation Model",
+      "description": "A GAN model that generates defect data for object detection model. I have implemented the model from scratch according to the description in the paper in frameworks (pytorch and tensorflow).",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 10, "year": 2021 },
+      "ends_at": { "day": 31, "month": 10, "year": 2021 },
+      "title": "Dictionary App with Next.js and Electron.js",
+      "description": "Second trial of building dictionary desktop app using electron and next.js.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 5, "year": 2021 },
+      "ends_at": { "day": 31, "month": 5, "year": 2021 },
+      "title": "Multiple Projects Starter",
+      "description": "This project spins up all projects in vscode and start the backend servers automatically.",
+      "url": null
+    },
+    {
+      "starts_at": { "day": 1, "month": 8, "year": 2020 },
+      "ends_at": { "day": 31, "month": 8, "year": 2020 },
+      "title": "Dictionary Mobile App",
+      "description": "Mobile app developed using React-Native.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 170,
+  "people_also_viewed": [
+    {
+      "link": "https://hk.linkedin.com/in/yyyeungandy",
+      "name": "Andy Yu",
+      "summary": "I solve problem",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/ka-hin-lau-b25471154",
+      "name": "KA HIN LAU",
+      "summary": "Software Product Analyst at ChatCampaign",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/derekwong93",
+      "name": "Derek Wong",
+      "summary": "programmer",
+      "location": "Kowloon"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/tecky-dev",
+      "name": "Tecky Dev",
+      "summary": "Developer at Tecky Academy",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/alyson-liu",
+      "name": "Alyson Liu",
+      "summary": "Programmer | Frontend Developer | ReactJS | React Native",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/samuelchanx",
+      "name": "Samuel Chan",
+      "summary": "Director and Tech Lead at Beyond Labs Studio",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/tom-tak-chun-chun",
+      "name": "Tom Tak Chun C.",
+      "summary": "Senior Full-stack Developer at OnTheList",
+      "location": "Hong Kong"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/rex-ng-b2950237",
+      "name": "Rex Ng",
+      "summary": "Software Architect specialised in ASP.NET/ASP.NET Core/C\\u266f/F\\u266f development",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/walter-tsui-62730388",
+      "name": "Walter Tsui",
+      "summary": "Associate Principal Engineer at ASTRI - Hong Kong Applied Science and Technology Research Institute",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/dixon-tsoi",
+      "name": "Dixon TSOI",
+      "summary": "Tech Lead",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/sze-long-chan",
+      "name": "Sze Long Chan",
+      "summary": "Software Engineer at SHOPLINE",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/alex-chiu-44513a116",
+      "name": "Alex Chiu",
+      "summary": "Senior Consultant at Capgemini | Cloud DevOps | Banking",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/dave-li-5345a5192",
+      "name": "Dave Li",
+      "summary": "Analyst Programmer",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/charles-wong-161475131",
+      "name": "Charles Wong",
+      "summary": "Contract System Analyst \\u4f4d\\u65bc ManpowerGroup",
+      "location": "Kowloon"
+    },
+    {
+      "link": "https://uk.linkedin.com/in/johnson-chong",
+      "name": "Johnson Chong",
+      "summary": "Java Developer | BEng Computer Engineering",
+      "location": "London"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/wai-shing-fung-47b5611b6",
+      "name": "Wai Shing Fung",
+      "summary": "Software Engineer at MediConCen",
+      "location": "Hong Kong"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/nelson-cheung-1a7340126",
+      "name": "Nelson Cheung",
+      "summary": "Mobile Application Development Lead at ARCH Partnership",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/chris-tsang",
+      "name": "Chris Tsang",
+      "summary": "Analyst Programmer",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "link": "https://hk.linkedin.com/in/kachun-ho-348841158",
+      "name": "KaChun Ho",
+      "summary": "Software Developer at The University of Hong Kong",
+      "location": "Hong Kong"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sanderz-fung-7799a457",
+      "name": "Sanderz Fung",
+      "summary": "Programmer at AutoSimply Company Limited",
+      "location": "New York City Metropolitan Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jonathan-\\u00f6sterberg-a9bb58157",
+      "name": "Jonathan \\u00d6sterberg",
+      "summary": "AI Software Engineer at RaSpect Intelligence Inspection Limited",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/harris-sun",
+      "name": "Harris SUN",
+      "summary": "Founder & CEO at RaSpect Intelligence Inspection",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/yip-timothy-a38a8b95",
+      "name": "Yip Timothy",
+      "summary": "Software Engineer at OKX",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-wong-776b0223b",
+      "name": "Kevin Wong",
+      "summary": "Senior Mechatronics Engineer at RaSpect Intelligence Inspection Limited",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/alex-hui-b4524866",
+      "name": "Alex Hui",
+      "summary": "IT Manager at High Fashion Group",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/chan-kwan-wai-9a4154227",
+      "name": "Chan Kwan Wai",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/franco-ng-83675a100",
+      "name": "Franco Ng",
+      "summary": "Technical Support at Miramar Travel Limited",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tak-ho",
+      "name": "Tak Ho",
+      "summary": "Senior System Architect at RaSpect Intelligence Inspection",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/garyhpho",
+      "name": "Hon Pong (Gary) Ho",
+      "summary": "Director of Research & Principal Engineer - Computer Vision Machine Learning",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ireneyhho",
+      "name": "Irene Ho",
+      "summary": "Project & Sales Management Specialist at RaSpect",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Juno Ng\\n\\n\\n\\nI worked with James in the Stand Overflow project and was very impressed by his ability to quickly learn and adopt new technologies. James has solid background in mathematics and that is reflected in the clarity of his code. He has acquired the knowledge on Ethereum blockchain and the ability to write smart contract with solidity through the project. I would highly recommend James to those who need an employee who is not only self-driven but also a quick learner."
+  ],
+  "activities": [
+    {
+      "title": "[ #HKUST30 | HKUST in time ]How often do you see CRT monitors these days? Probably rarely. For many #HKUST alumni, our computer barns with a sea of\\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by James Lee"
+    },
+    {
+      "title": "There\\u2019s always a strategic out way for the collaboration between corporates and startups to gain win win. Our founder and CEO, Harris SUN,  has\\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by James Lee"
+    },
+    {
+      "title": "As RaSpect continues to grow, our information securitysystem and quality standards also continue to strengthen. We are pleased to announce that our\\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by James Lee"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "James Lee",
+      "link": "https://uk.linkedin.com/in/james-lee-71896784",
+      "summary": "Quantity Surveyor at Sir Robert McAlpine",
+      "location": "Newcastle upon Tyne"
+    },
+    {
+      "name": "James Lee",
+      "link": "https://uk.linkedin.com/in/james-lee-5133377a",
+      "summary": "Senior Recruitment Consultant at Sequence Recruitment",
+      "location": "Greater Reading Area"
+    },
+    {
+      "name": "James Lee",
+      "link": "https://sg.linkedin.com/in/jameslkysingapore",
+      "summary": "Business Director at Blackletter Advisory",
+      "location": "Singapore"
+    },
+    {
+      "name": "James Lee",
+      "link": "https://kr.linkedin.com/in/james-lee-736161a0",
+      "summary": "ES Technology Co.,Ltd. CEO",
+      "location": "Seoul Incheon Metropolitan Area"
+    },
+    {
+      "name": "James Lee",
+      "link": "https://www.linkedin.com/in/james-lee-9468b64",
+      "summary": "CEO/Co-Founder - LegalMation\\u00ae",
+      "location": "Los Angeles, CA"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}

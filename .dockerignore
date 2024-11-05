@@ -1,0 +1,6 @@
+node_modules
+package.json
+serverless.yml
+yarn-error.log
+yarn.lock
+*.ipynb
